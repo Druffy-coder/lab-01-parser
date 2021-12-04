@@ -1,4 +1,4 @@
-// Copyright 2020 Andrew Prokushev <senior.prockuschev2017@yandex.ru>
+// Copyright 2020 Semenihin Dmitriy <SemenihinDmit@yandex.ru>
 #include <any>
 
 #include "../include/header.hpp"
