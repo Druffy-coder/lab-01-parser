@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "name": "1",
+      "group": 0,
+      "avg": 5,
+      "debt": 4
+    }
+  ],
+  "_meta": {
+    "count": 1
+  }
+}

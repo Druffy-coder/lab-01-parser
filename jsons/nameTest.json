@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "name": 1,
+      "group": 0,
+      "avg": 5,
+      "debt": [
+        "dsada",
+        "dsasd"
+      ]
+    }
+  ],
+  "_meta": {
+    "count": 1
+  }
+}
